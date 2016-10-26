@@ -1,5 +1,5 @@
 {
-    "name": "max/module-hello-world",
+    "name": "maxho12/module-hello-world",
     "description":"A test m211 hello world module",
     "require": {
         "php": "~5.6.0|7.0.2|~7.0.6",
@@ -16,7 +16,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Max\\HelloWorld\\": ""
+            "Maxho12\\HelloWorld\\": ""
         }
     }
 }
